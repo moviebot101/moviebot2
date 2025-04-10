@@ -1,1 +1,5 @@
-
+python-telegram-bot==20.0
+flask==3.0.2
+nest-asyncio==1.6.0  # Add this line
+4. old_post.json
+{}
